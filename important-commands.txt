@@ -1,0 +1,8 @@
+docker run -it --name portfolio-dev -p 3000:3000 -v ${PWD}:/app -w /app node:20-alpine sh
+
+apk add git
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+
+docker exec -it -w /app portfolio-dev sh
