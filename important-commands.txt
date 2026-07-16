@@ -6,3 +6,5 @@ git config --global user.email "your.email@example.com"
 
 
 docker exec -it -w /app portfolio-dev sh
+
+killall node
