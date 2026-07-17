@@ -5,6 +5,14 @@ import ProjectCard from "@/components/ProjectCard";
 import Skills from "@/components/Skills";
 import { projects } from "@/data/projects";
 
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Yanis Ahmed | Freelance Web Developer",
+  description:
+    "I am a freelance web developer specializing in building modern, responsive websites and web applications. I have experience with a variety of technologies and frameworks, including React, Next.js, and Tailwind CSS.",
+};
+
 export default function HomePage() {
   return (
     <main>
