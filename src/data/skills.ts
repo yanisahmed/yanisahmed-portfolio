@@ -1,0 +1,19 @@
+export type SkillCategory = {
+    category: string;
+    items: string[];
+};
+
+export const skills: SkillCategory[] = [
+    {
+        category: "Frontend",
+        items: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    },
+    {
+        category: "Backend",
+        items: ["Node.js", "Express", "PostgreSQL"],
+    },
+    {
+        category: "Tools",
+        items: ["Git", "Docker", "Figma"],
+    },
+];
