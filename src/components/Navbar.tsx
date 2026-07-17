@@ -7,7 +7,7 @@ export default function Navbar() {
         <header className="fixed top-0 w-full z-50 backdrop-blur-md bg-[var(--background)]/70 border-b border-[var(--muted)]/20">
             <nav className="max-w-6xl mx-auto px-8 md:px-24 py-4 flex justify-between items-center">
                 <Link href="/" className="font-mono font-bold text-[var(--accent)]">
-                    YourName.dev
+                    yanis.dev
                 </Link>
 
                 <div className="flex gap-6 text-sm font-mono">
