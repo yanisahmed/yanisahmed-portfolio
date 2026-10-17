@@ -11,7 +11,7 @@ export default function Hero() {
                 transition={{ duration: 0.5 }}
                 className="text-[var(--accent)] font-mono text-sm md:text-base tracking-widest uppercase mb-4"
             >
-                Frontend Developer
+                Full-Stack Developer
             </motion.p>
 
             <motion.h1
@@ -21,8 +21,6 @@ export default function Hero() {
                 className="text-4xl md:text-7xl font-bold leading-tight mb-6"
             >
                 Hi, I'm Yanis Ahmed.
-                <br />
-                I turn ideas into fast, beautiful, and functional websites.
             </motion.h1>
 
             <motion.p
@@ -31,8 +29,7 @@ export default function Hero() {
                 transition={{ duration: 0.6, delay: 0.2 }}
                 className="text-[var(--muted)] text-lg md:text-xl max-w-2xl mb-8"
             >
-                I craft fast, accessible, and visually engaging web experiences —
-                currently exploring Next.js and modern frontend architecture.
+                I turn ideas into fast, beautiful, and functional websites.
             </motion.p>
 
             <motion.div
