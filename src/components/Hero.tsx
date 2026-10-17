@@ -20,9 +20,9 @@ export default function Hero() {
                 transition={{ duration: 0.6, delay: 0.1 }}
                 className="text-4xl md:text-7xl font-bold leading-tight mb-6"
             >
-                Hi, I'm Your Name.
+                Hi, I'm Yanis Ahmed.
                 <br />
-                I build things for the web.
+                I turn ideas into fast, beautiful, and functional websites.
             </motion.h1>
 
             <motion.p
