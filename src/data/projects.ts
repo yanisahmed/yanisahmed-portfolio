@@ -10,13 +10,14 @@ export type Project = {
 
 export const projects: Project[] = [
     {
-        slug: "project-one",
-        title: "Project One",
-        description: "A short, punchy description of what this project does and the problem it solves.",
-        tech: ["Next.js", "TypeScript", "Tailwind"],
-        image: "/projects/project-one.jpg",
-        liveUrl: "https://example.com",
-        githubUrl: "https://github.com/yourusername/project-one",
+        slug: "cv-builder",
+        title: "CV Builder",
+        description:
+            "A modern, easy-to-use CV builder that helps job seekers create professional resumes in minutes. Customize your details, organize your experience, and export a polished PDF without the hassle of manual formatting.",
+        tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+        image: "/projects/cv-builder.png",
+        liveUrl: "https://buildmycv-pro.vercel.app/",
+        githubUrl: "https://github.com/yanisahmed/buildmycv",
     },
     {
         slug: "project-two",
