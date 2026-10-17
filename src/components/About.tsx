@@ -41,16 +41,10 @@ export default function About() {
                     className="md:col-span-2 text-[var(--muted)] text-lg space-y-4"
                 >
                     <p>
-                        Write 2–3 sentences about who you are, your background, and what
-                        drew you into frontend development.
+                        I'm Yanis Ahmed, a web developer with over 10 years of experience building websites and digital solutions for clients worldwide. With a background in Computer Science and Engineering and a strong foundation in frontend development, I became passionate about full-stack development because I enjoy turning ideas into complete, functional applications.
                     </p>
                     <p>
-                        Add a sentence about what you are currently focused on learning or
-                        building — e.g. exploring Next.js and modern React patterns.
-                    </p>
-                    <p>
-                        Optionally, a personal touch — interests outside coding, what
-                        drives you, or your working philosophy.
+                        I'm always eager to learn new technologies and build scalable, user-friendly solutions that solve real-world problems.
                     </p>
                 </motion.div>
             </div>
