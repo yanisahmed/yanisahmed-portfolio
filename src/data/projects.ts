@@ -20,12 +20,12 @@ export const projects: Project[] = [
         githubUrl: "https://github.com/yanisahmed/buildmycv",
     },
     {
-        slug: "project-two",
-        title: "Project Two",
-        description: "Another project description, focused on what makes it interesting or technically notable.",
+        slug: "multilingual-flashcard-app",
+        title: "Multilingual Flashcard App",
+        description: "A flashcard app for learning vocabulary across multiple languages. Create custom decks, flip cards with native pronunciation, and track your progress with spaced repetition so new words actually stick. Switch between languages instantly and study anywhere, on any device.",
         tech: ["React", "Node.js", "PostgreSQL"],
-        image: "/projects/project-one.jpg",
-        liveUrl: "https://example.com",
-        githubUrl: "https://github.com/yourusername/project-two",
+        image: "/projects/multilingual-flashcards.jpg",
+        liveUrl: "https://linguaflash-pro.vercel.app/",
+        githubUrl: "https://github.com/yanisahmed/multilanguage-flashcard",
     },
 ];
