@@ -24,7 +24,7 @@ export const projects: Project[] = [
         title: "Multilingual Flashcard App",
         description: "A flashcard app for learning vocabulary across multiple languages. Create custom decks, flip cards with native pronunciation, and track your progress with spaced repetition so new words actually stick. Switch between languages instantly and study anywhere, on any device.",
         tech: ["React", "Node.js", "PostgreSQL"],
-        image: "/projects/multilingual-flashcards.jpg",
+        image: "/projects/multilingual-flashcards.png",
         liveUrl: "https://linguaflash-pro.vercel.app/",
         githubUrl: "https://github.com/yanisahmed/multilanguage-flashcard",
     },
